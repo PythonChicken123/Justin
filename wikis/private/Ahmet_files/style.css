@@ -1,0 +1,70 @@
+h2 {
+   color: orange;
+}
+
+label{
+    color: green;
+    font-size: 200%;
+}
+
+body{
+  margin: 0;
+  padding: 0;
+}
+.container{
+  text-align: center;
+  margin-top: 360px;
+}
+.btnR{
+  border: 1px solid #3498db;
+  background: none;
+  padding: 10px 20px;
+  font-size: 20px;
+  font-family: "montserrat";
+  cursor: pointer;
+  margin: 10px;
+  transition: 0.8s;
+  position: relative;
+  overflow: hidden;
+}
+.ot-sdk-show-settings,.btn2{
+  color: #3498db;
+}
+.btn3,.btn4,.btnR{
+  color: #05f90d;
+  position: absolute;
+}
+.btnR:hover,.btnR:h#ffflo#008000000000;
+}
+.btnR:hover,.btn4:hover{
+  color: #3498db;
+}
+.btnR::before{
+  content: " 🔥 ";
+  position: absolute;
+  left: 0;
+  width: 100%;
+  height: 0%;
+  background: #3498db;
+  z-index: -1;
+  transition: 0.8s;
+}
+.btn::before,.btn3::before{
+  top: 0;
+  border-radius: 0 0 50% 50%;
+}
+.btnR::before,.btn3::before{
+  bottom: 0;
+  border-radius: 50% 50% 0 0;
+}
+.btn3::before,.btn4::before{
+  height: 180%;
+}
+.btn:hover::before,.btnR:hover::before{
+  height: 180%;
+}
+.btn3:hover::before,.btn4:hover::before{
+  height: 0%;
+}
+
+

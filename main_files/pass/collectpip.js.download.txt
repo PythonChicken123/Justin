@@ -1,0 +1,23 @@
+# pip installing pickage (Latest)
+
+import pip
+import auto
+import json
+import html import file
+from auto import change
+from player.pack import domain.cut, rename
+from pip import install, byte
+from json import download, collect
+from html import url, java
+
+if pip.install("python launcher", ver=4.2.0, type=install)
+
+else:
+pip.byte(22, "python launcher", type=install)
+pass
+
+json.write(pip.json.download)
+json.get(file="pip.json.download" play=1)
+auto.play(json.file((1, type=download)cut))
+auto.change(html.file(1, type=js.download)rename)
+

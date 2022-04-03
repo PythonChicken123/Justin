@@ -1,2 +1,2 @@
 # Justin
-🔥 Justin's Fart Wiki -> https://justin4free.netlify.app/main
+ 🔥 The Website Wiki Of The Justin Farted Wiki
